@@ -9,7 +9,7 @@ int main()
     int a,b;
     char operation,redo;
  
-     cout<<"Welcome to the calculater program v.1.0 written by Your Name"<<endl;
+     cout<<"Welcome to the calculater program vesion 1.0"<<endl;
     cout<<"***************************************************************"<<endl;
     cout<<endl<<endl<<endl;
    
