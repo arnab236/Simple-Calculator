@@ -9,8 +9,8 @@ int main()
     int a,b;
     char operation,redo;
  
-     cout<<"Welcome to the calculater program vesion 1.0"<<endl;
-    cout<<"***************************************************************"<<endl;
+     cout<<"Welcome to the calculater program vesion 1.0 by Arnab Sarkar"<<endl;
+    cout<<"*****************************************************************"<<endl;
     cout<<endl<<endl<<endl;
    
     do
